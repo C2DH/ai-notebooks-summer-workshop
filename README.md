@@ -5,7 +5,10 @@ WE use python 3.12
 
 ## List of notebooks
 
-The [README](https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb) notebook contains requirement and expectations for the notebooks that will be created during the workshp. Fr workshop participants: please use thi notebook as a template / guide for your own notebooks.
+The [README](https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+notebook contains requirement and expectations for the notebooks that will be created during the workshp. Fr workshop participants: please use thi notebook as a template / guide for your own notebooks.
 
 ## Installation
 
