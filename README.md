@@ -20,6 +20,8 @@ Then install the dependencies:
 
 ```sh
 cd ai-notebooks-summer-workshop
+poetry config virtualenvs.in-project true
+
 poetry install
 ```
 
