@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ai-notebooks-summer-workshop"
+version = "0.1.0"
+description = ""
+authors = ["Daniele Guido <gui.daniele@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.2.3"
+transformers = "^4.42.3"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
