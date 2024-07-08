@@ -1,19 +1,17 @@
 # ai-notebooks-summer-workshop
 
-This is a collection of python Ipynb Notebooks to test LLMs for Ipynb Notebooks. This repo also contains a examples folder with some examples of notebooks used in DH.
-WE use python 3.12
+This is a collection of Python Jupyter Notebooks to test Large Language Models (LLMs) for Jupyter Notebooks. This repository also contains an `examples` folder with some examples of notebooks used in Digital Humanities (DH).
+We recommend using Python 3.12.
 
-## List of notebooks
+## List of Ipynb noteboos
 
-The [README](https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-notebook contains requirement and expectations for the notebooks that will be created during the workshp. Fr workshop participants: please use thi notebook as a template / guide for your own notebooks.
+ - The [notebooks/README](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> notebook contains requirements and expectations for the notebooks that will be created during the workshop. For workshop participants: Please use this notebook as a template/guide for your own notebooks.
 
 ## Installation
 
-You cna run the notebooks using google colaboratory or locallly, using jupyter lab.
-We use Poetry to manage the dependencies. To install poetry with [pipx](https://github.com/pypa/pipx):
+You can run the notebooks using Google Colaboratory or locally using Jupyter Lab. We use Poetry to manage dependencies. 
+To install poetry with [pipx](https://github.com/pypa/pipx):
 
 ```sh
 pipx install poetry
@@ -30,7 +28,7 @@ poetry install
 
 ## Usage
 
-To run the notebooks using jupyter lab, run the following command:
+To run the notebooks using Jupyter Lab, run the following command:
 
 ```sh
 poetry run jupyter lab
