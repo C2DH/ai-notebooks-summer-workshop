@@ -13,6 +13,37 @@ transformers = "^4.42.3"
 requests = "^2.32.3"
 ipykernel = "^6.29.5"
 python-dotenv = "^1.0.1"
+jupyter = "^1.0.0"
+
+[tool.poetry.group.cpu]
+optional=true
+
+[tool.poetry.group.cpu.dependencies]
+torch={ version="~2.2", source="pytorch-cpu", markers="extra=='cpu' and extra!='cuda'" }
+torchvision={ version="~0.17", source="pytorch-cpu", markers="extra=='cpu' and extra!='cuda'" }
+poetorch={ version="0.1.0", extras=["cpu", "vision"] }
+
+[tool.poetry.group.cuda]
+optional=true
+
+[tool.poetry.group.cuda.dependencies]
+torch={ version="~2.2", source="pytorch-cuda", markers="extra=='cuda' and extra!='cpu'" }
+torchvision={ version="~0.17", source="pytorch-cuda", markers="extra=='cuda' and extra!='cpu'" }
+poetorch={ version="0.1.0", extras=["cuda", "vision"] }
+
+[tool.poetry.extras]
+cuda=[]
+cpu=[]
+
+[[tool.poetry.source]]
+name="pytorch-cuda"
+url="https://download.pytorch.org/whl/cu121"
+priority="explicit"
+
+[[tool.poetry.source]]
+name="pytorch-cpu"
+url="https://download.pytorch.org/whl/cpu"
+priority="explicit"
 
 
 [build-system]
