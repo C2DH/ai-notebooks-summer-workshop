@@ -7,11 +7,12 @@ We recommend using Python 3.12 and Poetry.
 
 - The [notebooks/README](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/README.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> notebook contains requirements and expectations for the notebooks that will be created during the workshop. For workshop participants: Please use this notebook as a template/guide for your own notebooks.
-- A [proposed solution to EXPLAIN CODE with CodeLLama](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code%20Explainer.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code%20Explainer.ipynb">
+- A proposed solution to EXPLAIN CODE [with CodeLLama](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code%20Explainer.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code%20Explainer.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- A [proposed solution to EXPLAIN CODE and GENERATE CODE with LLAMA7b](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/llama7b_quantized.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/llama7b_quantized.ipynb">
+- A proposed solution to EXPLAIN CODE and GENERATE CODE [with LLAMA7b](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/llama7b_quantized.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/llama7b_quantized.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- A [proposed solution - still todo : to EXPLAIN CODE and GENERATE CODE with CodeGemma](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/codegemma.ipynb.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/codegemma.ipynb">
+- A proposed solution to EXPLAIN CODE and GENERATE CODE [with CodeGemma](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/codegemma.ipynb.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/codegemma.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Installation
 
