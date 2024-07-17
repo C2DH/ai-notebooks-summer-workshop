@@ -11,7 +11,7 @@ We recommend using Python 3.12 and Poetry.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - A proposed solution to EXPLAIN CODE and GENERATE CODE [with LLAMA7b](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Llama7b_Quantized.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Llama7b_Quantized.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- A proposed solution to EXPLAIN CODE and GENERATE CODE [with CodeGemma](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code_Gemma.ipynb.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code_Gemma.ipynb">
+- A proposed solution to EXPLAIN CODE and GENERATE CODE [with CodeGemma](https://github.com/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code_Gemma.ipynb) <a target="_blank" href="https://colab.research.google.com/github/C2DH/ai-notebooks-summer-workshop/blob/master/notebooks/Code_Gemma.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Installation
